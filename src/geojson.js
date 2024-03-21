@@ -21,6 +21,7 @@ function justType(gjType, shpType) {
   };
 }
 
+
 /**
  * 
  * @param {Feature} feature The feature to get the coordinates from
